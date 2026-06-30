@@ -41,5 +41,5 @@ To orchestrate this workflow end-to-end, the following native capabilities are u
 4. **Import UiPath Assets:** Navigate to the `/uipath_workflow` folder in this repo, zip the contents, and import them as a new project into your UiPath Studio Web / Automation Cloud instance.
 5. **Execute:** Trigger the main sequence from UiPath Maestro. The process will reach out to the Codespace agent listener to execute the cognitive tasks.
 
-## 📜 License
+##  License
 This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
