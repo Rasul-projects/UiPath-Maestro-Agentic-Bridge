@@ -41,4 +41,4 @@ To orchestrate this workflow end-to-end, the following native capabilities are u
 5.  **Execute:** Trigger the main sequence from UiPath Maestro. The process will reach out to the Codespace agent listener to execute the cognitive tasks.
 
 ## 📜 License
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
