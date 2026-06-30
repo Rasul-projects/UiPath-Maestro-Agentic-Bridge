@@ -31,7 +31,7 @@ To orchestrate this workflow end-to-end, the following native capabilities are u
 1. **Clone & Launch:** Open this repository directly in **GitHub Codespaces**.
 2. **Environment Setup:** Create a `.env` file in the root directory and add your keys:
     ```env
-    UIPATH_ORCHESTRATOR_URL=[https://cloud.uipath.com/](https://cloud.uipath.com/)[YOUR_ORG]
+   UIPATH_ORCHESTRATOR_URL=https://cloud.uipath.com/[YOUR_ORG]
     LLM_API_KEY=[YOUR_KEY]
     ```
 3. **Install Dependencies:**
